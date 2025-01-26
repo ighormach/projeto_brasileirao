@@ -1,2 +1,2 @@
 # projeto_brasileirao
-Projeto do brasileirão 2024 utilizando scrap do fbref e uma visualização no PBI
+Scrap das tabelas dos jogadores de cada time do Brasileirão 2024.
