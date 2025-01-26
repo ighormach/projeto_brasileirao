@@ -1,0 +1,22 @@
+times = [
+    {"nome": "Botafogo (RJ)", "id": "d9fdd9d9"},
+    {"nome": "Palmeiras", "id": "abdce579"},
+    {"nome": "Flamengo", "id": "639950ae"},
+    {"nome": "Fortaleza", "id": "a9d0ab0e"},
+    {"nome": "Internacional", "id": "6f7e1f03"},
+    {"nome": "São Paulo", "id": "5f232eb1"},
+    {"nome": "Corinthians", "id": "bf4acd28"},
+    {"nome": "Bahia", "id": "157b7fee"},
+    {"nome": "Cruzeiro", "id": "03ff5eeb"},
+    {"nome": "Vasco da Gama", "id": "83f55dbe"},
+    {"nome": "Vitória", "id": "33f95fe0"},
+    {"nome": "Atlético Mineiro", "id": "422bb734"},
+    {"nome": "Fluminense", "id": "84d9701c"},
+    {"nome": "Grêmio", "id": "d5ae3703"},
+    {"nome": "Juventude", "id": "d081b697"},
+    {"nome": "Red Bull Bragantino", "id": "f98930d1"},
+    {"nome": "Athletico Paranaense", "id": "2091c619"},
+    {"nome": "Criciúma", "id": "3f7595bb"},
+    {"nome": "Atlético Goianiense", "id": "32d508ca"},
+    {"nome": "Cuiabá", "id": "f0e6fb14"}
+]
